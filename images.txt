@@ -2,7 +2,6 @@ alexta69/metube:latest
 adolfintel/speedtest:latest
 allanpk716/chinesesubfinder:latest
 caomingjun/warp:latest
-allanpk716/ChineseSubFinder:latest
 filebrowser/filebrowser:latest
 frooodle/s-pdf:latest
 gdy666/lucky:latest
@@ -15,7 +14,6 @@ linuxserver/transmission:latest
 nyanmisaka/jellyfin:latest
 vaultwarden/server:latest
 xhofe/alist:latest
---platform=linux/arm64 xhofe/alist:latest
 xinjiawei1/emby_unlockd:latest
 ydkn/cups:latest
 zmisgod/iptvchecker:latest
