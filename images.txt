@@ -17,3 +17,4 @@ xhofe/alist:latest
 xinjiawei1/emby_unlockd:latest
 ydkn/cups:latest
 zmisgod/iptvchecker:latest
+ghcr.io/imagegenius/immich:latest
