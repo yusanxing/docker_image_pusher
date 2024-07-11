@@ -1,6 +1,19 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+alexta69/metube:latest
+adolfintel/speedtest:latest
+allanpk716/chinesesubfinder:latest
+caomingjun/warp:latest
+filebrowser/filebrowser:latest
+frooodle/s-pdf:latest
+gdy666/lucky:latest
+hanhongyong/ms365-e5-renew-x:latest
+herberthe0229/iptv-sources:latest
+hslr/sun-panel:latest
+jxxghp/moviepilot:latest
+linuxserver/qbittorrent:latest
+linuxserver/transmission:latest
+nyanmisaka/jellyfin:latest
+vaultwarden/server:latest
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+xinjiawei1/emby_unlockd:latest
+ydkn/cups:latest
+zmisgod/iptvchecker:latest
